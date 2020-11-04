@@ -1,4 +1,7 @@
-### Hi there 👋
+### Nice to meet you! 👋
+
+I am Vigyan Kayastha, an upcoming Full Stack* Front End Developer
+Find my portfolio @ vigyankayastha.com
 
 <!--
 **vigyan-k/vigyan-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
