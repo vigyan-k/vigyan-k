@@ -15,9 +15,9 @@ React | Node | Express | MongoDB | JavaScript | SCSS | CSS3 | HTML5 | API | Webs
 
 ## Reach me @
 
-My porfolio: [vigyankayastha.com](https://vigyankayastha.com)
-[LinkedIn](https://www.linkedin.com/in/vigyan-kayastha/)
-[Twitter](https://twitter.com/vigyster)
+* My portfolio: [vigyankayastha.com](https://vigyankayastha.com)
+* [LinkedIn](https://www.linkedin.com/in/vigyan-kayastha/)
+* [Twitter](https://twitter.com/vigyster)
 
 
 <!--
