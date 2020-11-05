@@ -1,10 +1,10 @@
-### Nice to meet you! 👋
+# Nice to meet you! 👋
 
-I am Vigyan Kayastha, an upcoming Full Stack* Front End Developer
+I am Vigyan Kayastha, an upcoming *Full Stack* Web Developer based from Toronto, Canada
 
 Call me **Vig**!
 
-Find my portfolio @ [vigyankayastha.com](https://vigyankayastha.com)
+## Find my portfolio @ [vigyankayastha.com](https://vigyankayastha.com)
 
 My Tech Stack includes React | Node | Express | MongoDB | JavaScript | SCSS | CSS3 | HTML5 | API | Website Hosting | Adobe CC
 
