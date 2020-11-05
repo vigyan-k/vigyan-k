@@ -1,15 +1,23 @@
 # Nice to meet you! 👋
 
-I am Vigyan Kayastha, an upcoming *Full Stack* Web Developer based from Toronto, Canada
+I am Vigyan Kayastha (**Vig**), an upcoming *Full Stack* Web Developer based from Toronto, Canada
 
-Call me **Vig**!
+*Also experienced in the life sciences from McMaster University
 
-## Find my portfolio @ [vigyankayastha.com](https://vigyankayastha.com)
+A Huge Tech Enthusiast who likes:
+* Coding 
+* Science [Bioinformatics / Genetics]
+* Biking
+* Photography
 
-My Tech Stack includes React | Node | Express | MongoDB | JavaScript | SCSS | CSS3 | HTML5 | API | Website Hosting | Adobe CC
+## Skilled at 
+React | Node | Express | MongoDB | JavaScript | SCSS | CSS3 | HTML5 | API | Website Hosting | Adobe CC
 
+## Reach me @
 
-
+My porfolio: [vigyankayastha.com](https://vigyankayastha.com)
+[LinkedIn](https://www.linkedin.com/in/vigyan-kayastha/)
+[Twitter](https://twitter.com/vigyster)
 
 
 <!--
