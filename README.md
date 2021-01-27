@@ -1,6 +1,6 @@
 # Nice to meet you! 👋
 
-I am Vigyan Kayastha (**Vig**), an upcoming *Full Stack* Web Developer based from Toronto, Canada
+I am Vigyan Kayastha (**Vig**), a *Full Stack* Web Developer based from Toronto, Canada
 
 Currently Looking for work! 
 
@@ -8,7 +8,8 @@ I also hold a B.Sc Biology from McMaster University with experience in software 
 
 A Huge Tech Enthusiast who likes:
 * Coding 
-* Science [Bioinformatics / Genetics]
+* Science
+* PC Building
 * Biking
 * Photography
 
