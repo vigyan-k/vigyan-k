@@ -4,7 +4,7 @@ I am Vigyan Kayastha (**Vig**), a *Full Stack* Web Developer based from Toronto,
 
 Currently Looking for work! 
 
-I also hold a B.Sc Biology from McMaster University with experience in software development in Biology
+I also have experience in software development in Biology and hold a B.Sc Biology from McMaster University!
 
 A Huge Tech Enthusiast who likes:
 * Coding 
