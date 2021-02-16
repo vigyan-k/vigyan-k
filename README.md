@@ -14,7 +14,7 @@ A Huge Tech Enthusiast who likes:
 * Photography
 
 ## Skilled at 
-React | Node | Express | MongoDB | JavaScript | SCSS | CSS3 | HTML5 | API | Website Hosting | Adobe CC
+React | Node | Express | MongoDB | JavaScript | SCSS | CSS3 | HTML5 | REST APIs | Website Hosting | Adobe CC
 
 ## Reach me @
 
