@@ -2,11 +2,9 @@
 
 I am Vigyan Kayastha (**Vig**), a *Full Stack* Web Developer based from Toronto, Canada
 
-Currently Looking for work! 
+I also have experience in computational biology and IT support!
 
-I also have experience in software development in Biology and hold a B.Sc Biology from McMaster University!
-
-A Huge Tech Enthusiast who likes:
+A Tech Enthusiast who enjoys:
 * Coding 
 * Science
 * PC Building
@@ -14,7 +12,7 @@ A Huge Tech Enthusiast who likes:
 * Photography
 
 ## Skilled at 
-React | Node | Express.JS | MongoDB | JavaScript | SCSS | CSS3 | HTML5 | REST APIs | Website Hosting | Adobe CC
+React | Node | Express.JS | MongoDB | JavaScript | SCSS | CSS3 | HTML5 | REST APIs | Adobe CC
 
 ## Reach me @
 
