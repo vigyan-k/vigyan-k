@@ -6,9 +6,9 @@ I also have experience in computational biology and IT support!
 
 A Tech Enthusiast who enjoys:
 * Coding 
-* Science
+* Learning
 * PC Building
-* Biking
+* Volleyball + Badminton
 * Photography
 
 ## Skilled at 
