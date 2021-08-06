@@ -18,7 +18,6 @@ React | Node | Express.JS | MongoDB | JavaScript | SCSS | CSS3 | HTML5 | REST AP
 
 * [vigyankayastha.com](https://vigyankayastha.com) <- Portfolio
 * [LinkedIn](https://www.linkedin.com/in/vigyan-kayastha/)
-* [Twitter](https://twitter.com/vigyster)
 
 
 <!--
